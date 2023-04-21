@@ -3,7 +3,7 @@
 
 /*
  * File: is variadic_functions.h
- * Auth: is EL MAHDI BENRAMI
+ * Auth: is Anas Darouichi
  * Desc: is Header file containing prototypes for all functions
  *       used in the 0x0F-variadic_functions directory.
  */
