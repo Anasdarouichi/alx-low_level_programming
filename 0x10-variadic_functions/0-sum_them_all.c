@@ -1,6 +1,6 @@
 /*
  * File: 0-sum_them_all.c
- * Auth: BENRAMI EL MAHDI
+ * Auth: Anas Darouichi
  */
 
 #include "variadic_functions.h"
