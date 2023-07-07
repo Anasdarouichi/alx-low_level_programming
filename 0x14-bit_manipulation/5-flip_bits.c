@@ -1,4 +1,8 @@
- /* @n: first number
+#include "main.h"
+
+/**
+ * flip_bits - returns the number of bits to flps
+ * @n: first number
  * @m: second number
  * Author: Anasdarouichi
  * Return: number of bits to flip
